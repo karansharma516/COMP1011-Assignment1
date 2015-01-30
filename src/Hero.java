@@ -18,7 +18,6 @@ public class Hero {
 	public String name;
 	
 	
-	
 	// CONSTRUCTOR +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 	/**
 	 * initiates the class and call the generateAbilities Method
